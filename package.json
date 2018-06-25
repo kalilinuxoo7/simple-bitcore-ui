@@ -2,7 +2,7 @@
   "name": "simple-insight-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the simple network and build your own services with it.",
   "version": "0.4.1",
-  "repository": "git://github.com/simplechain/simple-insight.git",
+  "repository": "git://github.com/kalilinuxoo7/simple-insight.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
