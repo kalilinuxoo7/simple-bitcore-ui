@@ -4,6 +4,6 @@ angular.module('insight.api')
   .factory('Api',
     function() {
       return {
-        apiPrefix: '/amigo-insight-api'
+        apiPrefix: '/simple-insight-api'
       }
     });

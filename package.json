@@ -1,8 +1,8 @@
 {
-  "name": "amigo-insight-ui",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the amigo network and build your own services with it.",
+  "name": "simple-insight-ui",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the simple network and build your own services with it.",
   "version": "0.4.1",
-  "repository": "git://github.com/amigochain/amigo-insight.git",
+  "repository": "git://github.com/simplechain/simple-insight.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,15 +26,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/amigochain/amigo-insight-ui/issues"
+    "url": "https://github.com/kalilinuxoo7/simple-insight-ui/issues"
   },
-  "homepage": "https://github.com/amigochain/amigo-insight-ui",
+  "homepage": "https://github.com/kalilinuxoo7/simple-insight-ui",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "amigo",
+    "simple",
     "bitcore",
     "front-end"
   ],
